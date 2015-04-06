@@ -1,10 +1,4 @@
-/*
- * arduWebRelays.ino
- *
- * Created: 07/09/2013 15:55:00
- *  Author: Guillaume Carriere - guillaume.carriere@gmail.com
- *
- */ 
+ 
 #include <EtherCard.h>
 
 static byte mymac[] = { 0x00,0x01,0x01,0x01,0x01,0x01  };
